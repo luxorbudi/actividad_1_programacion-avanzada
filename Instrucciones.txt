@@ -1,0 +1,18 @@
+- Este proyecto se hizo en la plataforma Windows 10
+
+- Se puede ejecutar tanto con Python 9 como con Python 11
+
+- Para ejecutar la aplicación, abrir el proyecto con VS Code, presionar F5 y listo
+
+- Si ello no funciona, abrir el archivo __main__.py, presionar F5 y listo
+
+
+Enlaces Git:
+
+HTTPS: https://github.com/luxorbudi/actividad_final_programacion-avanzada.git
+
+SSH: git@github.com:luxorbudi/actividad_final_programacion-avanzada.git
+
+
+
+
