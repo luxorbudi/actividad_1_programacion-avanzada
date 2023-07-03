@@ -14,5 +14,8 @@ HTTPS: https://github.com/luxorbudi/actividad_final_programacion-avanzada.git
 SSH: git@github.com:luxorbudi/actividad_final_programacion-avanzada.git
 
 
+Alumno: Gerardo Jiménez Bazán
+
+
 
 
