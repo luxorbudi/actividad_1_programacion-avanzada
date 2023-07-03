@@ -1,0 +1,4 @@
+STRING_EMPTY = ""
+
+INTRO_STATE = "Intro"
+GAMEPLAY_STATE = "Gameplay"

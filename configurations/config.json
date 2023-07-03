@@ -1,0 +1,68 @@
+{
+    "game" : {
+        "screen_size" : [800, 600],
+        "title" : "The Walking Girl",
+        "background_color" : [0, 101, 200],
+        "foreground_color" : [255, 255, 255]
+    },
+    "timing" : {
+        "fps" : 60,
+        "fps_pos" : [0, 0],
+        "time_per_frame" : 16,
+        "refresh_stats_time" : 1000
+    },
+    "font" : {
+        "size" : 25,
+        "name" : "Nebula",
+        "file" : ["assets", "fonts", "Nebula.ttf"]
+    },
+    "background" : {
+        "name" : "Vecteezy",
+        "file" : ["assets", "images", "background.jpg"]
+    },
+    "music" : {
+        "volume" : 0.25,
+        "name" : "WalkingGirl",
+        "file" : ["assets", "music", "walking_girl.mp3"]
+    },
+    "gameplay" : {
+        "music" : {
+            "volume" : 0.25,
+            "name" : "Blockbuster",
+            "file" : ["assets", "music", "blockbuster.mp3"]
+        }
+    },
+    "activity" : {
+        "girl" : {
+            "width" : 64,
+            "speed" : 0.1,
+            "height" : 128,
+            "rest_time" : 0.1,
+            "name": "walking_girl",
+            "image_file" : ["assets", "images", "walking_girl.png"]
+        },
+
+        "alien" : {
+            "width" : 105,
+            "height" : 85,
+            "speed" : 0.1,
+            "name": "alien",
+            "rest_time" : 0.1,
+            "text_separation" : 0.9,
+            "image_file" : ["assets", "images", "alien.png"]
+        }
+    },
+    "debug" : {
+        "is_debug": false,
+        "collider_color" : [255, 0, 0],
+        "render_color" : [0, 255, 0]
+    },
+    "intro" : {
+        "pos_label" : [110, 100],
+        "pos_key" : [90, 200]
+    },
+    "banner" : {
+        "speed" : 0.1,
+        "text" : "*** ACTIVIDAD FINAL - THE WALKING GIRL - GERARDO JIMENEZ BAZAN ***"
+    }
+}
